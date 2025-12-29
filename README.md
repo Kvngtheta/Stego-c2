@@ -1,6 +1,11 @@
 # StegoTransfer - Secure Steganographic Data Transfer System
+This tool is primarily created for testing unique exfiltration attempts by an insider threat ans was inspired by:
 
-A sophisticated web application for encoding encrypted data into GIF images using steganography techniques, with a secure admin panel for receiving and decrypting transmissions.
+[@cxnturi0n](https://github.com/cxnturi0n/convoC2)
+[@bobbyrsec](https://medium.com/@bobbyrsec/gifshell-covert-attack-chain-and-c2-utilizing-microsoft-teams-gifs-1618c4e64ed7)
+
+A web application for encoding encrypted data into GIF images using steganography techniques, with a secure admin panel for receiving and decrypting transmissions.
+
 
 ## Features
 
